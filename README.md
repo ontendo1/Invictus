@@ -1,4 +1,4 @@
-#Invictus A Platform Action Prototype. 
+#Invictus A Platform-Action Prototype. 
 
 Here is a game play video: 
 
